@@ -8,6 +8,6 @@ Acesse a tela de cadastro
 <a href="https://eubrenobrito.github.io/Tela-de-cadastro-de-produtos/" target="_blank"> AQUI </a>
 
 
-## Sobre o site
+## Sobre a tela
 Tela de cadastro de produtos com funcionalidades completas em HTML, CSS e JS.
 Cancela, edita(atualiza) e salva os produtos na lista.
